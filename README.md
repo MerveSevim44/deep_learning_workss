@@ -141,5 +141,10 @@ Bilgisayar Mühendisliği Öğrencisi | Yapay Zekâ ve Veri Bilimi meraklısı<b
 GitHub: <a data-start="3519" data-end="3573" rel="noopener" target="_new" class="" href="https://github.com/MerveSevim44">github.com/MerveSevim44</a><br data-start="3573" data-end="3576">
 LinkedIn: <a data-start="3586" data-end="3650" rel="noopener" target="_new" class="" href="www.linkedin.com/in/merve-sevim-aa8797231">linkedin.com/in/merve-sevim-aa8797231</a></p>
 <hr data-start="3652" data-end="3655">
+<blockquote>
+  ⚠️ Bu repo, katıldığım bir eğitim/bootcamp süresince yürüttüğüm derse ait alıştırmalar ve ödevlerden oluşmaktadır.
+  Kodların tamamı bana ait değildir; bazı bölümler eğitmenler tarafından sağlanan içeriklerden türetilmiştir.
+  Bu repo yalnızca kişisel eğitim ve portfolyo amaçlı paylaşılmaktadır.
+</blockquote>
 
 
