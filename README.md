@@ -148,3 +148,21 @@ LinkedIn: <a data-start="3586" data-end="3650" rel="noopener" target="_new" clas
 </blockquote>
 
 
+
+<h2>🔖 Lisans</h2>
+<p>
+  Bu proje, 
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.tr" target="_blank">
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+  </a> 
+  lisansı ile lisanslanmıştır.
+</p>
+<ul>
+  <li>📌 Atıf yapılması koşuluyla paylaşılabilir,</li>
+  <li>📌 Ticari amaçla kullanılamaz,</li>
+  <li>📌 Türetilen içerikler aynı lisansla paylaşılmalıdır.</li>
+</ul>
+<p><strong>Bu repo yalnızca eğitim ve portfolyo amaçlı paylaşılmıştır.</strong></p>
+
+
+
